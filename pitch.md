@@ -29,4 +29,4 @@ What will feel "crunchy"? (sound, motion, particles, haptics, timing, numbers)
 - [ ] Hybrid-casual: simple core + a meta layer
 - [ ] Portrait, one thumb
 - [ ] 1–3 minute sessions
-- [ ] Small: about 3 levels per person-sized team (more for 2–3 people)
+- [ ] Small: about 3 levels (more for a team of 2–3)
