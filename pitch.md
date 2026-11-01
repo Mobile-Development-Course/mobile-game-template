@@ -1,6 +1,6 @@
 # Pitch: [Game name]
 
-> **What we expect from your game**
+> **What I expect from your game**
 > - **Genre:** hybrid-casual, Android, portrait, played with one thumb. Theme and genre are your choice.
 > - **Core loop:** one simple mechanic that is fun in seconds.
 > - **Meta:** a currency and something to spend it on (upgrades, unlocks, a place to build).
