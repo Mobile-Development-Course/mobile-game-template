@@ -2,6 +2,7 @@
 
 > **What I expect from your game**
 > - **Genre:** hybrid-casual, Android, portrait, played with one thumb. Theme and genre are your choice.
+>   Ideas: sort puzzles (Hexa Sort, Water Sort), block puzzles (Block Blast), merge games, one-thumb runners (Subway Surfers), stacking or timing games (Stack), one-thumb action with upgrades (Archero), idle tap games.
 > - **Core loop:** one simple mechanic that is fun in seconds.
 > - **Meta:** a currency and something to spend it on (upgrades, unlocks, a place to build).
 > - **Sessions:** 1–3 minutes.
