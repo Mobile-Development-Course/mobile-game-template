@@ -6,6 +6,7 @@
 > - **Core loop:** one simple mechanic that is fun in seconds.
 > - **Meta:** a currency and something to spend it on (upgrades, unlocks, a place to build).
 > - **Sessions:** 1–3 minutes.
+> - **Goals:** clear things the player achieves (finish a level, reach a score, unlock an upgrade). Progress you could count.
 > - **Size:** about 3 levels for one person. Bigger team, bigger game: a team of 2–3 builds more (extra levels or an extra system), agreed after the pitch. This is a software engineering course: put your effort into the code, the systems and the data, not into content.
 > - **Look:** placeholder or free art is fine. Fun matters more than looks.
 
@@ -22,6 +23,9 @@ Which 2 hooks bring players back tomorrow? (daily reward, streak, event, lives, 
 
 ## Who and when
 Who plays it, where, and how long is one session? (target: 1–3 minutes)
+
+## Goals
+What does the player achieve? List the moments of progress (level completed, upgrade unlocked, new record…).
 
 ## Feel
 What will feel "crunchy"? (sound, motion, particles, haptics, timing, numbers)
